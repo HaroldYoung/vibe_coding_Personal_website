@@ -1,7 +1,7 @@
 # 个人作品集网站
 
-> 一个由 AI 辅助设计与开发的全栈个人作品集，集成 AI 数字人对话系统  
-> **线上地址：** [clubyhy.top](https://clubyhy.top)
+> 一个 vibe coding 项目，由claude code AI 辅助设计与开发的全栈个人作品集，集成 AI 数字人对话系统  
+> **线上地址：** [clubyhy.top](https://clubyhy.top)  ps.因为vercel服务器挂载在海外，可能需要挂vpn
 
 ---
 
